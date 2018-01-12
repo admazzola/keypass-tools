@@ -1,0 +1,22 @@
+{
+  "name": "keypass-tools",
+  "version": "0.0.1",
+  "description": "A collection of tools for proof of payment and proof of ownership using web3keypass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admazzola/keypass-tools.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "admazzola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/admazzola/keypass-tools/issues"
+  },
+  "homepage": "https://github.com/admazzola/keypass-tools#readme"
+}
